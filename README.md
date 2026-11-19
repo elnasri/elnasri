@@ -1,6 +1,6 @@
-<img src="https://cdn.jsdelivr.net/gh/alchaincyf/huashu-bird-sticker@main/stickers/Charadriiformes/Laridae/Sterna_paradisaea.webp" alt="Arctic Tern" width="240">
+<img src="https://cdn.jsdelivr.net/gh/alchaincyf/huashu-bird-sticker@main/stickers/Charadriiformes/Laridae/Sterna_paradisaea.webp" alt="Arctic Tern" width="200">
 
-*Illustration: [Bird Album](https://birdalbum.com/birds/arctic-tern/) / [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), CC BY 4.0*
+<sub><i>Arctic Tern sticker by <a href="https://github.com/alchaincyf/huashu-bird-sticker">huashu-bird-sticker</a> (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</i></sub>
 <!--
 **elnasri/elnasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
