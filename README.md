@@ -1,3 +1,7 @@
+
+"Ten outta do it, don't you think? You think we need one more? Alright, we'll get one more."
+
+
 <img src="https://cdn.jsdelivr.net/gh/alchaincyf/huashu-bird-sticker@main/stickers/Charadriiformes/Laridae/Sterna_paradisaea.webp" alt="Arctic Tern" width="200">
 
 <sub><i>Arctic Tern sticker by <a href="https://github.com/alchaincyf/huashu-bird-sticker">huashu-bird-sticker</a> (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</i></sub>
